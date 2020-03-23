@@ -19,7 +19,7 @@ end
 maxTrialBack        = 7;
 InitRange           = bnds;
 thrRT               = 0.3;
-nIter4InitRandomize = 20;
+nIter4InitRandomize = 1000;
 nBest4SecondStage   = 20;
 dir0 = pwd;
 addpath([dir0 '/Sub'])
